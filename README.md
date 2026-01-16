@@ -21,8 +21,9 @@
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodexDLC&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mikhail's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexDLC&layout=compact&theme=tokyonight" alt="Mikhail's Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodexDLC&show_icons=true&theme=tokyonight" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexDLC&layout=compact&theme=tokyonight" alt="Langs" />
 </div>
 
 ---
