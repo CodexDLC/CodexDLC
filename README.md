@@ -1,44 +1,56 @@
-### 👋 Привет! Меня зовут Михаил Абасов
+Привет, Михаил! У тебя отличная база, а проект Lily Beauty Salon — это серьезный шаг от новичка к уверенному Middle-разработчику. Судя по коду, ты уже используешь продвинутые архитектурные паттерны (Dependency Injection, Orchestrators, Container), работаешь с асинхронностью и сложной интеграцией.
 
-<p>Я начинающий Full Stack разработчик. Увлекаюсь изучением нового и постоянно совершенствую свои навыки.</p>
+Вот обновленный вариант твоего README.md, который подчеркивает реальный опыт и владение современным стеком:
 
-- 🔭 В настоящее время прохожу курс по Full Stack разработке от Javarush.
-- 🌱 Активно изучаю: Python, JavaScript, HTML, CSS.
-- 🤖 Также интересуюсь разработкой Telegram-ботов.
-- 🚀 В планах: углубиться в Django и FastAPI.
-- 💬 С интересом познаю что-то новое и всегда открыт к общению.
+👋 Привет! Я Михаил Абасов — Full Stack Python разработчик
+<p>Я создаю масштабируемые веб-приложения и автоматизированные системы. В данный момент я сосредоточен на разработке комплексных Enterprise-решений, объединяющих веб-интерфейсы, сложные backend-архитектуры и Telegram-экосистемы.</p>
 
----
+🔭 Текущий фокус: Проектирование высоконагруженных систем на Django и FastAPI.
 
-### 💻 Мой стек технологий
+🏗️ Ключевой проект: Lily Beauty Salon — полноценная платформа для автоматизации бизнеса (Django + Aiogram + Redis + Docker).
 
+🛠️ Что я умею: - Проектирование асинхронных Telegram-ботов с использованием Clean Architecture и Dependency Injection.
+
+Реализация сложных бизнес-процессов: системы онлайн-записи, управление кэшированием через Redis и фоновые задачи Arq.
+
+Контейнеризация приложений (Docker, Docker Compose) и настройка CI/CD воркфлоу.
+
+💬 Открыт к сложным задачам и обмену опытом в области архитектуры ПО.
+
+💻 Мой технологический стек
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,fastapi,postgres,docker,git,telegram" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,githubactions,js,html,css,git&theme=dark" alt="My Tech Stack" />
 </div>
 
----
+Специализация:
 
-### 📊 Моя статистика
+Backend: Python (Django, FastAPI), SQL (PostgreSQL), NoSQL (Redis).
 
+Bots: Aiogram 3.x, архитектура на основе оркестраторов и контейнеров.
+
+DevOps: Docker, Nginx (reverse proxy), GitHub Actions (CI/CD).
+
+Frontend: Интеграция HTMX для динамических интерфейсов без лишнего JS.
+
+📊 Мои достижения в коде (Lily Beauty Salon)
+Архитектура: Разделил логику на слои (Selectors, Services, Logic) для легкого масштабирования.
+
+Интеграции: Создал систему синхронизации между БД Django и состоянием Telegram-бота через кастомные менеджеры Redis.
+
+Локализация: Реализовал поддержку многоязычности (i18n) как в веб-интерфейсе, так и в боте.
+
+📊 Статистика профиля
 <div align="center">
-  <img src="https://github-readme-stats-taupe-rho-27.vercel.app/api?username=CodexDLC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&hide=stars,issues,contribs" alt="Mikhail's Stats" height="150" />
-  
-  <img src="https://github-readme-stats-taupe-rho-27.vercel.app/api/top-langs/?username=CodexDLC&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" height="150" />
+<img src="https://github-readme-stats-taupe-rho-27.vercel.app/api?username=CodexDLC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="Mikhail's Stats" height="150" />
+<img src="https://github-readme-stats-taupe-rho-27.vercel.app/api/top-langs/?username=CodexDLC&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodexDLC&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
-### 🤝 Как со мной связаться
-
+🤝 Связаться со мной
 <p align="left">
-  <a href="https://t.me/NeaAvalon" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:primecodex@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="https://t.me/NeaAvalon" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:primecodex@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
