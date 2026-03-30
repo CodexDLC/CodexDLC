@@ -1,55 +1,55 @@
-👋 Привет! Я Михаил Абасов — Full Stack Python разработчик
-<p>Я создаю масштабируемые веб-приложения и автоматизированные системы. В данный момент я сосредоточен на разработке комплексных Enterprise-решений, объединяющих веб-интерфейсы, сложные backend-архитектуры и Telegram-экосистемы.</p>
+*Read this in other languages: [English](README.md), [Русский](README.ru.md).*
 
-🔭 Текущий фокус: Проектирование высоконагруженных систем на Django и FastAPI.
+# 👋 Hi there! I'm Mikhail Abasov
 
-🏗️ Ключевой проект: Lily Beauty Salon — полноценная платформа для автоматизации бизнеса (Django + Aiogram + Redis + Docker).
+**Full Stack Python Developer & Architect**
 
-🛠️ Что я умею: - Проектирование асинхронных Telegram-ботов с использованием Clean Architecture и Dependency Injection.
+I specialize in designing and building scalable web applications, event-driven architectures, and automated systems. My passion lies in constructing clean, modular backend infrastructure, integrating AI capabilities, and connecting complex web ecosystems with Telegram bots.
 
-Реализация сложных бизнес-процессов: системы онлайн-записи, управление кэшированием через Redis и фоновые задачи Arq.
+---
 
-Контейнеризация приложений (Docker, Docker Compose) и настройка CI/CD воркфлоу.
+### 🔭 Current Focus: The Codex Ecosystem
 
-💬 Открыт к сложным задачам и обмену опытом в области архитектуры ПО.
+Right now, my primary dedication is developing the **[Codex Hub](https://codexdlc.github.io/codex-docs/)** — a shared, highly-modular Python stack designed to accelerate the development of robust, production-ready applications. It consists of multiple independent but synergistic libraries:
 
-💻 Мой технологический стек
+* **`codex-core` & `codex-platform`**: The foundation — DTOs, settings, background workers, event streams, and Redis plumbing.
+* **`codex-django` & `codex-services`**: Runtime integrations and high-level business logic separation for scalable Django backends.
+* **`codex-ai`**: Provider-agnostic LLM abstractions and clean AI integration surfaces.
+* **`codex-bot`**: An advanced, Aiogram-based bot framework for seamless Telegram product automations.
+
+I believe in Clean Architecture, Dependency Injection, and building tools that make developer workflows seamless (like **`codex-django-cli`**).
+
+---
+
+### 💻 My Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,githubactions,js,html,css,git&theme=dark" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,githubactions,js,html,css,git&theme=dark" alt="My Tech Stack" />
 </div>
 
-Специализация:
+* **Backend:** Python (Django, FastAPI), SQL (PostgreSQL), NoSQL (Redis).
+* **Architecture & AI:** Event-driven systems, Clean Architecture, LLM integrations.
+* **Bots:** Aiogram 3.x, orchestrator-based architecture.
+* **DevOps:** Docker, Docker Compose, GitHub Actions (CI/CD), Nginx.
+* **Frontend:** HTMX for dynamic, low-JS interfaces.
 
-Backend: Python (Django, FastAPI), SQL (PostgreSQL), NoSQL (Redis).
+---
 
-Bots: Aiogram 3.x, архитектура на основе оркестраторов и контейнеров.
-
-DevOps: Docker, Nginx (reverse proxy), GitHub Actions (CI/CD).
-
-Frontend: Интеграция HTMX для динамических интерфейсов без лишнего JS.
-
-📊 Мои достижения в коде (Lily Beauty Salon)
-Архитектура: Разделил логику на слои (Selectors, Services, Logic) для легкого масштабирования.
-
-Интеграции: Создал систему синхронизации между БД Django и состоянием Telegram-бота через кастомные менеджеры Redis.
-
-Локализация: Реализовал поддержку многоязычности (i18n) как в веб-интерфейсе, так и в боте.
-
-📊 Статистика профиля
-
+### 📊 GitHub Stats
 
 <div align="center">
-
   <img src="https://streak-stats.demolab.com?user=CodexDLC&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
 </div>
 
-🤝 Связаться со мной
+---
+
+### 🤝 Let's Connect
+
 <p align="left">
-<a href="https://t.me/NeaAvalon" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:primecodex@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+  <a href="https://t.me/NeaAvalon" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:primecodex@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
